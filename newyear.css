@@ -9,7 +9,7 @@
 
 .background {
       /**화면 꽉차게 하기 **/
-      max-width: 350px;
+      max-width: 450px;
       width: 100vw;
       height: 100vh;
 
@@ -85,6 +85,6 @@
 }
 
 body, h1, p{
-	margin: 0;
-	padding: 0;
+	margin: 0px;
+	padding: 0px;
 }
